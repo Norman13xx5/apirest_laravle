@@ -1,0 +1,164 @@
+
+13/08/2022 02:16:38POST /api/registro/ HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  165
+Content-Type:    application/json
+Host:            localhost:8000
+Postman-Token:   4271adf8-0585-4a59-bf84-531610af50f0
+User-Agent:      PostmanRuntime/7.29.2
+
+{"name":"Leanne Graham","username":"Bret","email":"Sincere@april.biz","city":null,"phone":"1-770-736-8031 x56442","name_company":null,"birth_date":null,"photo":null}
+13/08/2022 02:16:49POST /api/registro HTTP/1.1
+Accept:             */*
+Accept-Encoding:    gzip, deflate, br
+Accept-Language:    es-419,es;q=0.9
+Connection:         keep-alive
+Content-Length:     189
+Content-Type:       application/json
+Host:               localhost:8000
+Origin:             null
+Sec-Ch-Ua:          "Opera GX";v="89", "Chromium";v="103", "_Not:A-Brand";v="24"
+Sec-Ch-Ua-Mobile:   ?1
+Sec-Ch-Ua-Platform: "Android"
+Sec-Fetch-Dest:     empty
+Sec-Fetch-Mode:     cors
+Sec-Fetch-Site:     cross-site
+User-Agent:         Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Mobile Safari/537.36
+
+{"idform":" 1 ","name":" Leanne Graham ","username":" Bret ","email":" Sincere@april.biz ","addresscity":" Gwenborough ","phone":" 1-770-736-8031 x56442 ","companyname":" Romaguera-Crona "}
+13/08/2022 02:20:09POST /api/registro HTTP/1.1
+Accept:             */*
+Accept-Encoding:    gzip, deflate, br
+Accept-Language:    es-419,es;q=0.9
+Connection:         keep-alive
+Content-Length:     195
+Content-Type:       application/json
+Host:               localhost:8000
+Origin:             null
+Sec-Ch-Ua:          "Opera GX";v="89", "Chromium";v="103", "_Not:A-Brand";v="24"
+Sec-Ch-Ua-Mobile:   ?1
+Sec-Ch-Ua-Platform: "Android"
+Sec-Fetch-Dest:     empty
+Sec-Fetch-Mode:     cors
+Sec-Fetch-Site:     cross-site
+User-Agent:         Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Mobile Safari/537.36
+
+{"idform":" 3 ","name":" Clementine Bauch ","username":" Samantha ","email":" Nathan@yesenia.net ","addresscity":" McKenziehaven ","phone":" 1-463-123-4447 ","companyname":" Romaguera-Jacobson "}
+13/08/2022 03:23:27POST /api/registro HTTP/1.1
+Accept:             */*
+Accept-Encoding:    gzip, deflate, br
+Accept-Language:    es-419,es;q=0.9
+Connection:         keep-alive
+Content-Length:     134
+Content-Type:       application/json
+Host:               localhost:8000
+Origin:             null
+Sec-Ch-Ua:          "Opera GX";v="89", "Chromium";v="103", "_Not:A-Brand";v="24"
+Sec-Ch-Ua-Mobile:   ?1
+Sec-Ch-Ua-Platform: "Android"
+Sec-Fetch-Dest:     empty
+Sec-Fetch-Mode:     cors
+Sec-Fetch-Site:     cross-site
+User-Agent:         Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Mobile Safari/537.36
+
+------WebKitFormBoundaryieaQJSMz0X6uGBQ1
+Content-Disposition: form-data; name="id"
+
+1
+------WebKitFormBoundaryieaQJSMz0X6uGBQ1--
+
+13/08/2022 03:35:26POST /api/registro HTTP/1.1
+Accept:             */*
+Accept-Encoding:    gzip, deflate, br
+Accept-Language:    es-419,es;q=0.9
+Connection:         keep-alive
+Content-Length:     159
+Content-Type:       application/json
+Host:               localhost:8000
+Origin:             null
+Sec-Ch-Ua:          "Opera GX";v="89", "Chromium";v="103", "_Not:A-Brand";v="24"
+Sec-Ch-Ua-Mobile:   ?1
+Sec-Ch-Ua-Platform: "Android"
+Sec-Fetch-Dest:     empty
+Sec-Fetch-Mode:     cors
+Sec-Fetch-Site:     cross-site
+User-Agent:         Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Mobile Safari/537.36
+
+------WebKitFormBoundaryMqiTWIq5a0ikwgQA
+Content-Disposition: form-data; name="id"
+
+[object HTMLButtonElement]
+------WebKitFormBoundaryMqiTWIq5a0ikwgQA--
+
+13/08/2022 03:36:25POST /api/registro HTTP/1.1
+Accept:             */*
+Accept-Encoding:    gzip, deflate, br
+Accept-Language:    es-419,es;q=0.9
+Connection:         keep-alive
+Content-Length:     159
+Content-Type:       application/json
+Host:               localhost:8000
+Origin:             null
+Sec-Ch-Ua:          "Opera GX";v="89", "Chromium";v="103", "_Not:A-Brand";v="24"
+Sec-Ch-Ua-Mobile:   ?1
+Sec-Ch-Ua-Platform: "Android"
+Sec-Fetch-Dest:     empty
+Sec-Fetch-Mode:     cors
+Sec-Fetch-Site:     cross-site
+User-Agent:         Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Mobile Safari/537.36
+
+------WebKitFormBoundary8KB0MNGgGxuNrA0b
+Content-Disposition: form-data; name="id"
+
+[object HTMLButtonElement]
+------WebKitFormBoundary8KB0MNGgGxuNrA0b--
+
+13/08/2022 03:56:02POST /api/registro/ HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  165
+Content-Type:    application/json
+Host:            localhost:8000
+Postman-Token:   ff9c803e-9c3a-4f54-9706-2f909ad58232
+User-Agent:      PostmanRuntime/7.29.2
+
+{"name":"Leanne Graham","username":"Bret","email":"Sincere@april.biz","city":null,"phone":"1-770-736-8031 x56442","name_company":null,"birth_date":null,"photo":null}
+13/08/2022 04:00:02POST /api/registro HTTP/1.1
+Accept:             */*
+Accept-Encoding:    gzip, deflate, br
+Accept-Language:    es-419,es;q=0.9
+Connection:         keep-alive
+Content-Length:     195
+Content-Type:       application/json
+Host:               localhost:8000
+Origin:             null
+Sec-Ch-Ua:          "Opera GX";v="89", "Chromium";v="103", "_Not:A-Brand";v="24"
+Sec-Ch-Ua-Mobile:   ?0
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Dest:     empty
+Sec-Fetch-Mode:     cors
+Sec-Fetch-Site:     cross-site
+User-Agent:         Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.64
+
+{"idform":" 3 ","name":" Clementine Bauch ","username":" Samantha ","email":" Nathan@yesenia.net ","addresscity":" McKenziehaven ","phone":" 1-463-123-4447 ","companyname":" Romaguera-Jacobson "}
+13/08/2022 04:00:09POST /api/registro HTTP/1.1
+Accept:             */*
+Accept-Encoding:    gzip, deflate, br
+Accept-Language:    es-419,es;q=0.9
+Connection:         keep-alive
+Content-Length:     196
+Content-Type:       application/json
+Host:               localhost:8000
+Origin:             null
+Sec-Ch-Ua:          "Opera GX";v="89", "Chromium";v="103", "_Not:A-Brand";v="24"
+Sec-Ch-Ua-Mobile:   ?0
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Dest:     empty
+Sec-Fetch-Mode:     cors
+Sec-Fetch-Site:     cross-site
+User-Agent:         Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 OPR/89.0.4447.64
+
+{"idform":" 10 ","name":" Clementina DuBuque ","username":" Moriah.Stanton ","email":" Rey.Padberg@karina.biz ","addresscity":" Lebsackbury ","phone":" 024-648-3804 ","companyname":" Hoeger LLC "}
